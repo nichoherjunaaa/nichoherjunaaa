@@ -11,4 +11,4 @@ I am Nicho Herjuna, a 4th-semester student majoring in Informatics at Sanata Dha
 
 
 
-![snake gif](https://github.com/nichoherjunaaa/nichoherjunaaa/blob/output/github-contribution-grid-snake.gif)
+
