@@ -9,6 +9,9 @@ I am Nicho Herjuna, a 4th-semester student majoring in Informatics at Sanata Dha
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nichoherjunaaa/nichoherjunaaa/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="Snake animation only visible in dark mode" src="https://via.placeholder.com/1x1/ffffff/ffffff?text=+" />
+</picture>
 
 
