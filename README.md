@@ -9,6 +9,6 @@ I am Nicho Herjuna, a 4th-semester student majoring in Informatics at Sanata Dha
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/nichoherjunaaa/nichoherjunaaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nichoherjunaaa/nichoherjunaaa/blob/output/github-contribution-grid-snake-dark.svg)
 
 
