@@ -11,8 +11,6 @@ nicho@github:~$ cat stack.txt
 > Frontend : React
 > Bahasa   : TypeScript (karena any bukan gaya hidup)
 
-nicho@github:~$ uptime
-> Bangun sejak kopi pertama. Load average: 3 deadline, 2 revisi, 1 skripsi
 ```
 
 ### 🛠️ Yang biasa saya kerjakan
@@ -22,12 +20,6 @@ nicho@github:~$ uptime
 - Menamai variabel: 10% waktu coding, 90% waktu berpikir
 - Membaca dokumentasi setelah semua cara lain gagal
 
-### 🚀 Proyek pilihan
-| Proyek | Cerita singkat |
-|---|---|
-| [SIA Mobile](https://github.com/nichoherjunaaa/NAMA_REPO) | Sistem informasi akademik: API dan aplikasinya. Akhirnya bisa cek nilai tanpa refresh 47 kali |
-| [Trading Signal Dashboard](https://github.com/nichoherjunaaa/NAMA_REPO) | Dashboard sinyal dan alert XAUUSD dan NASDAQ. Bukan saran finansial, cuma saran dari server |
-| [AI Thesis Assistant](https://github.com/nichoherjunaaa/NAMA_REPO) | Mesin pencari jurnal multi-sumber. Dibuat karena Google Scholar dan saya sudah tidak saling sapa |
 
 ### 📜 Riwayat commit yang jujur
 
@@ -50,7 +42,6 @@ p3q4r5s  revert: semua yang di atas
 
 ### 📫 Hubungi saya
 
-Mau kolaborasi, diskusi proyek, atau sekadar bilang kode saya ada bug?
 Silakan kontak lewat [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN) atau [email](mailto:EMAIL_KAMU@gmail.com). Saya balas lebih cepat dari build `npm install`.
 
 <p align="center"><sub>✨ Kalau README ini membuatmu tersenyum, berarti setidaknya satu hal hari ini berjalan sesuai rencana.</sub></p>
