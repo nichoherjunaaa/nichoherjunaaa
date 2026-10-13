@@ -16,14 +16,7 @@ nicho@github:~$ cat stack.txt
 > Bahasa   : TypeScript (karena `any` bukan gaya hidup)
 ```
 
-### Yang biasa saya kerjakan
-
-- Membangun REST API yang rapi, sampai ada yang mengirim `null` ke field wajib
-- Membuat UI React yang responsif di semua layar, kecuali layar milik dosen
-- Menamai variabel lebih lama daripada menulis fungsinya
-- Membaca dokumentasi setelah semua cara lain gagal
-
-### Riwayat commit yang jujur
+### Riwayat commit andalan
 
 ```text
 a1b2c3d  feat: tambah fitur login
@@ -39,7 +32,6 @@ p3q4r5s  revert: semua yang di atas
 |:--|:--|
 | Kode | 🟢 Berjalan |
 | Tes | 🟡 Berjalan, hasilnya jangan ditanya |
-| Tidur | 🔴 `404 Not Found` |
 | Skripsi | 🟡 `202 Accepted`, sedang diproses |
 
 ### Hubungi saya
@@ -47,5 +39,3 @@ p3q4r5s  revert: semua yang di atas
 Terbuka untuk kolaborasi dan diskusi proyek. Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN) atau [email](mailto:EMAIL_KAMU@gmail.com). Saya membalas lebih cepat dari `npm install`.
 
 ---
-
-<p align="center"><sub>✨ Kalau README ini membuatmu tersenyum, berarti setidaknya satu hal hari ini berjalan sesuai rencana.</sub></p>
