@@ -16,7 +16,7 @@ nicho@github:~$ cat stack.txt
 > Bahasa   : TypeScript (karena `any` bukan gaya hidup)
 ```
 
-### Riwayat commit andalan
+### Pesan commit favorit
 
 ```text
 a1b2c3d  feat: tambah fitur login
