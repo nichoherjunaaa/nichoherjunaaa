@@ -1,5 +1,3 @@
-<h2 align="center">Halo, saya Nicho 👋</h2>
-
 <p align="center">
   <b>Fullstack Developer</b> · Go · NestJS · Express · React · TypeScript<br />
   <i>Menulis bug di frontend, lalu memperbaikinya di backend.</i>
@@ -18,14 +16,14 @@ nicho@github:~$ cat stack.txt
 > Bahasa   : TypeScript (karena `any` bukan gaya hidup)
 ```
 
-### 🛠️ Yang biasa saya kerjakan
+### Yang biasa saya kerjakan
 
 - Membangun REST API yang rapi, sampai ada yang mengirim `null` ke field wajib
 - Membuat UI React yang responsif di semua layar, kecuali layar milik dosen
 - Menamai variabel lebih lama daripada menulis fungsinya
 - Membaca dokumentasi setelah semua cara lain gagal
 
-### 📜 Riwayat commit yang jujur
+### Riwayat commit yang jujur
 
 ```text
 a1b2c3d  feat: tambah fitur login
@@ -35,7 +33,7 @@ l0m1n2o  fix: login, kali ini sungguh-sungguh
 p3q4r5s  revert: semua yang di atas
 ```
 
-### 📊 Status terkini
+### Status terkini
 
 | Komponen | Status |
 |:--|:--|
@@ -44,7 +42,7 @@ p3q4r5s  revert: semua yang di atas
 | Tidur | 🔴 `404 Not Found` |
 | Skripsi | 🟡 `202 Accepted`, sedang diproses |
 
-### 📫 Hubungi saya
+### Hubungi saya
 
 Terbuka untuk kolaborasi dan diskusi proyek. Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN) atau [email](mailto:EMAIL_KAMU@gmail.com). Saya membalas lebih cepat dari `npm install`.
 
