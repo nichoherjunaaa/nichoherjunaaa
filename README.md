@@ -1,81 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nicho%20Herjuna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20AI%20%26%20Full-stack%20Builder&descAlignY=58&descSize=16" width="100%" alt="header" />
+<h2 align="center">Halo, saya Nicho 👋</h2>
+<p align="center"><i>Fullstack developer. Menulis bug di frontend, lalu memperbaikinya di backend.</i></p>
 
-<p align="center">
-  <a href="https://github.com/nichoherjunaaa"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CFF&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+Computer+Vision;Building+AI+tools+that+solve+real+problems;Full-stack+Web+%26+Mobile+Developer;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
-</p>
+```bash
+nicho@github:~$ whoami
+> Fullstack developer, mahasiswa Informatika semester 7
+> Spesialis "kok di laptop saya jalan ya"
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nichoherjunaaa?style=for-the-badge&logo=github&color=2c5364" alt="followers" />
-  <img src="https://img.shields.io/github/stars/nichoherjunaaa?style=for-the-badge&logo=github&color=2c5364" alt="stars" />
-  <img src="https://img.shields.io/github/created-at/nichoherjunaaa?style=for-the-badge&logo=github&color=2c5364" alt="joined" />
-</p>
+nicho@github:~$ cat stack.txt
+> Backend  : Go, NestJS, Express
+> Frontend : React
+> Bahasa   : TypeScript (karena any bukan gaya hidup)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+nicho@github:~$ uptime
+> Bangun sejak kopi pertama. Load average: 3 deadline, 2 revisi, 1 skripsi
+```
 
----
+### 🛠️ Yang biasa saya kerjakan
 
-## 👋 About Me
+- REST API yang rapi, sampai ada yang kirim `null` ke field wajib
+- UI React yang responsif, di semua layar kecuali layar milik dosen
+- Menamai variabel: 10% waktu coding, 90% waktu berpikir
+- Membaca dokumentasi setelah semua cara lain gagal
 
-- 🎓 Informatics student, semester 7, passionate about AI and software engineering
-- 🔭 Currently working on my thesis: spectral similarity vs CNN for compound identification
-- 👁️ Exploring **Computer Vision** and **Image Processing**
-- 🛠️ Building tools that support smart, disciplined decision-making
-- 🌱 Always learning, always shipping
-- 📫 Reach me through the badges above
+### 🚀 Proyek pilihan
+| Proyek | Cerita singkat |
+|---|---|
+| [SIA Mobile](https://github.com/nichoherjunaaa/NAMA_REPO) | Sistem informasi akademik: API dan aplikasinya. Akhirnya bisa cek nilai tanpa refresh 47 kali |
+| [Trading Signal Dashboard](https://github.com/nichoherjunaaa/NAMA_REPO) | Dashboard sinyal dan alert XAUUSD dan NASDAQ. Bukan saran finansial, cuma saran dari server |
+| [AI Thesis Assistant](https://github.com/nichoherjunaaa/NAMA_REPO) | Mesin pencari jurnal multi-sumber. Dibuat karena Google Scholar dan saya sudah tidak saling sapa |
 
----
+### 📜 Riwayat commit yang jujur
 
-## 🧰 Tech Stack
+```text
+a1b2c3d  feat: tambah fitur login
+d4e5f6g  fix: login
+h7i8j9k  fix: login (beneran)
+l0m1n2o  fix: login, kali ini sungguh-sungguh
+p3q4r5s  revert: semua yang di atas
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,flutter,tailwind,mysql,postgres,docker,git,github,vscode,figma&perline=8" alt="Tech stack" />
-</p>
+### 📊 Status terkini
 
----
+| Komponen | Status |
+|---|---|
+| Kode | 🟢 Berjalan |
+| Tes | 🟡 Berjalan, hasilnya jangan ditanya |
+| Tidur | 🔴 `404 Not Found` |
+| Skripsi | 🟡 `202 Accepted`, sedang diproses |
 
-## 🚀 Featured Projects
+### 📫 Hubungi saya
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎓 AI Thesis Assistant</h3>
-      <p>Multi-source academic search (Semantic Scholar, OpenAlex, Crossref) with evidence-grounded AI analysis.</p>
-      <a href="https://github.com/nichoherjunaaa/NAMA_REPO">View repo →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📱 SIA Mobile</h3>
-      <p>Mobile academic information system for students, with API and app.</p>
-      <a href="https://github.com/nichoherjunaaa/NAMA_REPO">View repo →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📈 Trading Signal Dashboard</h3>
-      <p>Web-based signal and alert system for XAUUSD and NASDAQ.</p>
-      <a href="https://github.com/nichoherjunaaa/NAMA_REPO">View repo →</a>
-    </td>
-  </tr>
-</table>
+Mau kolaborasi, diskusi proyek, atau sekadar bilang kode saya ada bug?
+Silakan kontak lewat [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN) atau [email](mailto:EMAIL_KAMU@gmail.com). Saya balas lebih cepat dari build `npm install`.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nichoherjunaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichoherjunaaa&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nichoherjunaaa/nichoherjunaaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nichoherjunaaa/nichoherjunaaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nichoherjunaaa/nichoherjunaaa/output/github-snake.svg" />
-</picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+<p align="center"><sub>✨ Kalau README ini membuatmu tersenyum, berarti setidaknya satu hal hari ini berjalan sesuai rencana.</sub></p>
