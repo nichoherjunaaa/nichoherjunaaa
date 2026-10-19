@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Fullstack Developer</b> · Go · NestJS · Express · React · TypeScript<br />
+  <b>Fullstack Developer</b> · NestJS · Express · React · TypeScript<br />
   <i>Menulis bug di frontend, lalu memperbaikinya di backend.</i>
 </p>
 
@@ -11,7 +11,7 @@ nicho@github:~$ whoami
 > Spesialis "kok di laptop saya jalan ya"
 
 nicho@github:~$ cat stack.txt
-> Backend  : Go, NestJS, Express
+> Backend  : NestJS, Express
 > Frontend : React
 > Bahasa   : TypeScript (karena `any` bukan gaya hidup)
 ```
@@ -36,6 +36,7 @@ p3q4r5s  revert: semua yang di atas
 
 ### Hubungi saya
 
-Terbuka untuk kolaborasi dan diskusi proyek. Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/USERNAME_LINKEDIN) atau [email](mailto:EMAIL_KAMU@gmail.com). Saya membalas lebih cepat dari `npm install`.
+Terbuka untuk kolaborasi dan diskusi proyek. Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/nicho-herjuna-b11b952b0) atau [email](mailto:nichoherjuna.dev@gmail.com). Saya membalas lebih cepat dari `npm install`.
+
 
 ---
