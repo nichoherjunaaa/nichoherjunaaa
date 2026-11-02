@@ -21,20 +21,7 @@ p3q4r5s revert: kembali ke masa lalu
 
 *At least, Git masih percaya sama saya.*
 
-### `$ systemctl status kehidupan`
-
-| Komponen | Status |
-|:--|:--|
-| Coding | 🟢 Active |
-| Debugging | 🟢 Running 24/7 |
-| Testing | 🟡 Works on my machine |
-| Dokumentasi | 🔴 Coming soon™ |
-| Skripsi | 🟡 `202 Accepted` |
-| Tidur | 🔴 Service unavailable |
-
-### `$ ping contact`
-
-Terbuka untuk kolaborasi, diskusi teknologi, maupun proyek yang requirement-nya berubah setelah selesai dikerjakan.
+Terbuka untuk kolaborasi ataupun proyek yang requirement-nya berubah setelah selesai dikerjakan.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicho-herjuna-b11b952b0)
 - 📧 [Email](mailto:nichoherjuna.dev@gmail.com)
@@ -46,4 +33,4 @@ nicho@github:~$ echo "Thanks for visiting!"
 > Karena penyesalan selalu datang setelah git push --force.
 ```
 
-**Have a nice day & happy debugging!** 🚀
+**Have a nice day!** 🚀
