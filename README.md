@@ -23,9 +23,6 @@ p3q4r5s revert: kembali ke masa lalu
 
 Terbuka untuk kolaborasi ataupun proyek yang requirement-nya berubah setelah selesai dikerjakan.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicho-herjuna-b11b952b0)
-- 📧 [Email](mailto:nichoherjuna.dev@gmail.com)
-
 ```bash
 nicho@github:~$ echo "Thanks for visiting!"
 
